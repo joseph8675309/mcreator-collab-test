@@ -1,0 +1,11 @@
+{
+  "group": "testremoteworkspack",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "testremoteworkspack:ccccccccore"
+  },
+  "result": {
+    "item": "testremoteworkspack:ccccccccgem"
+  }
+}

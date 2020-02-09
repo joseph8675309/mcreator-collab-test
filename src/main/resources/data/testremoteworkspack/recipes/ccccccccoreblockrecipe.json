@@ -1,0 +1,42 @@
+{
+  "group": "testremoteworkspack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "1": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "2": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "3": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "4": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "5": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "6": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "7": {
+      "item": "testremoteworkspack:ccccccccgem"
+    },
+    "8": {
+      "item": "testremoteworkspack:ccccccccgem"
+    }
+  },
+  "result": {
+    "item": "testremoteworkspack:ccccccccoreblock",
+    "count": 1
+  }
+}
